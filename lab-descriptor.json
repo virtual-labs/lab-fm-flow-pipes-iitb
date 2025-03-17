@@ -26,28 +26,28 @@
         "deploy": true
     },
     {
-        "name": "Flow through syphon",
+        "name": "Flow Through Syphon",
         "short-name": "flow-syphon",
         "repo": "https://github.com/virtual-labs/exp-flow-syphon-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Flow through pipes in series",
+        "name": "Flow Through Pipes in Series",
         "short-name": "flow-pipes-series",
         "repo": "https://github.com/virtual-labs/exp-flow-pipes-series-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Flow through parallel pipes",
+        "name": "Flow Through Parallel Pipes",
         "short-name": "flow-parallel-pipes",
         "repo": "https://github.com/virtual-labs/exp-flow-parallel-pipes-iitb",
         "tag": "v1.0.0",
         "deploy": true
     },
     {
-        "name": "Flow through branched pipes",
+        "name": "Flow Through Branched Pipes",
         "short-name": "flow-branched-pipes",
         "repo": "https://github.com/virtual-labs/exp-flow-branched-pipes-iitb",
         "tag": "v1.0.0",
